@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="my.css">
+</head>
+<body>
+    <h1>MERHAN UNIVERSITY OF ENGINEERING AND TECHNOLOGY</h1>
+    <h2>Introduction:</h2>
+    <p><mark>Mehran University of Engineering & Technology</mark>. <br> is a public research university located in Jamshoro, Sindh, Pakistan focused on STEM education.</p>
+         <p>Established in <ins>July 1976</ins>, as a campus of the <i><mark>University of Sindh</mark></i>, and a year later was chartered as an independent university.</p> 
+    <p>Address: Mehran University of Engineering and Technology, Indus Hwy, Jamshoro, Sindh 76062</p>
+    <p id="newinshal">Founded: <b>1973</b></p>
+    <h2>DEPARTMENTS OF<abrr title="Mehran university of engineering and technology"><q>MUET</q></abrr></h2>
+    <ul>
+        <li>Software Engineering</li>
+        <li>Electrical Engineering</li>
+        <li>Computer system Engineering</li>
+        <li>Telecommunication Engineering</li>
+        <li>Electronic Engineering</li>
+        <li>Cyber Security</li>
+        <li>City and Rigioning Planning</li>
+        <li>Bio Medical Engineering</li>
+        <li><a href="https://www.muet.edu.pk">Muet.com</a></li>
+
+    </ul>
+    <div class="kk">
+        <h1>Software Engineering</h1>
+        <p>Software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications. Software engineers apply engineering principles and knowledge of programming languages to build software solutions for end users.</p>
+    </div>
+    <div class="hm">
+        <h1>Electrical Engineering</h1>
+        <p>Electrical engineering is an engineering discipline concerned with the study, design, and application of equipment, devices, and systems which use electricity, electronics, and electromagnetism.</p>
+    </div>
+    <div class="yu">
+        <h1>Computer system Engineering</h1>
+        <p>Computer systems engineers are employed in industry, government, education and consulting and are concerned with the design, development and operation of hardware and software components of a computer system.</p>
+    </div>
+    <div class="tu">
+        <h1>Telecommunication Engineering</h1>
+        <p>Telecommunications engineering is a subfield of electronics engineering which seeks to design and devise systems of communication at a distance. The work ranges from basic circuit design to strategic mass developments.</p>
+    </div>
+    <div class="fu">
+        <h1>Electronic Engineering</h1>
+        <p>Electronic engineering is a sub-discipline of electrical engineering that emerged in the early 20th century and is distinguished by the additional use of active components such as semiconductor devices to amplify and control electric current flow.</p>
+    </div>
+    <div class="gu">
+        <h1>Cyber Security</h1>
+        <p>Cybersecurity is the practice of protecting internet-connected systems such as hardware, software and data from cyberthreats. </p>
+    </div>
+    <div class="du">
+        <h1>City and Rigioning Planning</h1>
+        <p>City and Regional Planning is an interdisciplinary field which deals with the social, economic, and physical aspects of the society and the built environment.</p>
+    </div>
+    <div class="ku">
+        <h1>Bio Medical Engineering</h1>
+        <p>Biomedical engineering (BME) is the application of engineering principles to solve biological and medical problems for the purpose of improving health care.</p>
+    </div>
+    <table>
+        <caption><B>ANNUAL FEE</B></caption>
+        <tr>
+        <td>Admi fee</td>
+        <td>60000</td>
+        </tr>
+        <tr>
+            <td>Tution fee</td>
+            <td>8000</td>
+        </tr>
+        <tr>
+            <td>Transpost fee</td>
+            <td>8000</td>
+        </tr>
+        <tr>
+            <td>Books fee</td>
+            <td>4000</td>
+        </tr>
+
+    </table>
+    <h2>Beauty of MUET</h2>
+    <button onclick="document,location='muet.html'">Click and veiw MUET Jamshoro</button>
+</body>
+</html>
